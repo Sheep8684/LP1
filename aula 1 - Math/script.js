@@ -33,3 +33,8 @@ console.log(Math.min(43, 25, 76, 10))
 //math.max seleciona o maior número de uma sequência
 
 console.log(Math.max(75, 22, 37, 89))
+
+//Math.randow gera um número aleatório entre 0 e 1
+
+let numeroAleatorio = Math.random()
+console.log(numeroAleatorio)
